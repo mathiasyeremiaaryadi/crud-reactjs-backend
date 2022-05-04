@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "Arif",
+      "alamat": "Jalan ketapang 56",
+      "umur": 24,
+      "nohp": "0887723534"
+    },
+    {
+      "id": 2,
+      "nama": "Budi",
+      "alamat": "Jalan Entapang 56",
+      "umur": 23,
+      "nohp": "0887723534"
+    },
+    {
+      "id": 3,
+      "nama": "Cano",
+      "alamat": "Jalan Otapang 56",
+      "umur": 20,
+      "nohp": "0887723534"
+    },
+    {
+      "id": 4,
+      "nama": "Cina",
+      "alamat": "Jalan Otapang 56",
+      "umur": 20,
+      "nohp": "0887723534"
+    },
+    {
+      "id": 5,
+      "nama": "Andri",
+      "alamat": "Jalan Otapang 56",
+      "umur": 20,
+      "nohp": "0887723534"
+    },
+    {
+      "id": 6,
+      "nama": "Cano",
+      "alamat": "Jalan Otapang 56",
+      "umur": 20,
+      "nohp": "0887723534"
+    },
+    {
+      "id": 7,
+      "nama": "Cano",
+      "alamat": "Jalan Otapang 56",
+      "umur": 20,
+      "nohp": "0887723534"
+    },
+    {
+      "id": 8,
+      "nama": "Cano",
+      "alamat": "Jalan Otapang 56",
+      "umur": 20,
+      "nohp": "0887723534"
+    },
+    {
+      "id": 9,
+      "nama": "Cano",
+      "alamat": "Jalan Otapang 56",
+      "umur": 20,
+      "nohp": "0887723534"
+    },
+    {
+      "id": 10,
+      "nama": "Cano",
+      "alamat": "Jalan Otapang 56",
+      "umur": 20,
+      "nohp": "0887723534"
+    },
+    {
+      "id": 11,
+      "nama": "Cano",
+      "alamat": "Jalan Otapang 56",
+      "umur": 20,
+      "nohp": "0887723534"
+    }
+  ]
+}
